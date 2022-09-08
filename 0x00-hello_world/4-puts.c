@@ -1,10 +1,8 @@
 #include <stdio.h>
 /**
- *main - this were the program is executed
- * the program prints a simple statement
- *using puts
- * Returns 0 because it does no calculations
- * it only prints hence no return value
+ * main - Entry point
+ * Description: 'prints a statement using puts'
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
