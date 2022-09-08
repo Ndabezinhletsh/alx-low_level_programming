@@ -3,7 +3,8 @@
  *main - this were the program is executed
  * the program prints a simple statement
  *using puts
- * Returns 0
+ * Returns 0 because it does no calculations
+ * it only prints hence no return value
  */
 int main(void)
 {
