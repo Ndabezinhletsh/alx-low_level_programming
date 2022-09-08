@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- * main : entry point
+ * main : this is were the program runs
  * Description : prints a statement using printf
- * Returnt : 0 (Always)
+ * Returnt : Always 0 (Success)
  */
 int main()
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");
- return (0);
+return (0);
 } 
