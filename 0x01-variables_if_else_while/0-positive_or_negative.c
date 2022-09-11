@@ -5,7 +5,8 @@
 /**
 * main - generates a random number tests whether it
 * is positive or negative or equal to zero
-* Description - Using the main fuction this program generates a random number and tests it
+* Description - Using the main fuction this program
+* generates a random number and tests it
 * Return: 0
 */
 int main(void)
@@ -18,11 +19,11 @@ if (n>0)
 {
 	printf("%i is positive", n);
 }
-else if (n==0)
+else if (n == 0)
 {
         printf("%i is zero", n);
 }
-else if (n<0)
+else if (n < 0)
 {
         printf("%i is negative", n);
 }
